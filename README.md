@@ -1,4 +1,4 @@
-# driver-monitoring-system
+# Driver-monitoring-system
 
 A simple driver monitoring system that detects driver attention and alerts on unsafe conditions. This repository contains the core scripts and utilities to run and develop the project locally.
 
